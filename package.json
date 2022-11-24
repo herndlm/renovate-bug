@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/herndlm/renovate-bug#readme",
   "devDependencies": {
-    "react": "^17.0.0"
+    "react": "17.0.0"
   },
   "peerDependencies": {
     "react": "*"
